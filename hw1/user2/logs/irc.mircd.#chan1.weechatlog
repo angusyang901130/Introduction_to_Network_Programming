@@ -1,0 +1,7 @@
+2022-11-14 13:28:43	-->	user2 () has joined #chan1
+2022-11-14 13:28:43	--	Topic for #chan1 is "hello, world!"
+2022-11-14 13:28:43	--	Channel #chan1: 2 nicks (0 ops, 0 voices, 2 normals)
+2022-11-14 13:29:01	user1	Hello User2
+2022-11-14 13:29:11	--	Topic for #chan1 is "hello, world!"
+2022-11-14 13:29:24	user2	Hello I am User2
+2022-11-14 13:29:35	<--	user2 () has left #chan1

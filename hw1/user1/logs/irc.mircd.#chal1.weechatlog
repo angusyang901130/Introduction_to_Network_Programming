@@ -1,0 +1,22 @@
+2022-11-16 17:20:33	-->	user1 () has joined #chal1
+2022-11-16 17:20:33	--	No topic set for channel #chal1
+2022-11-16 17:20:33	--	Channel #chal1: 1 nick (0 ops, 0 voices, 1 normal)
+2022-11-16 17:21:02	--	Topic for #chal1 is "hello, world!"
+2022-11-16 17:25:14	-->	user2 () has joined #chal1
+2022-11-16 17:27:40	user1	Hello I am User1
+2022-11-16 17:27:59	user2	Hello How are you
+2022-11-16 17:28:26	<--	user1 () has left #chal1
+2022-11-16 17:28:37	<--	user2 () has left #chal1
+2022-11-16 17:29:14	--	#chal1: You are not on that channel
+2022-11-17 01:43:39	-->	user1 () has joined #chal1
+2022-11-17 01:43:39	--	No topic set for channel #chal1
+2022-11-17 01:43:39	--	Channel #chal1: 1 nick (0 ops, 0 voices, 1 normal)
+2022-11-17 01:43:48	--	Topic for #chal1 is "hello, world!"
+2022-11-17 01:44:10	-->	user2 () has joined #chal1
+2022-11-17 01:44:31	user1	Hello User2
+2022-11-17 01:44:38	user2	Hello USER1
+2022-11-17 01:44:47	<--	user1 () has left #chal1
+2022-11-17 01:45:37	-->	user1 () has joined #chal1
+2022-11-17 01:45:37	--	Topic for #chal1 is "hello, world!"
+2022-11-17 01:45:37	--	Channel #chal1: 1 nick (0 ops, 0 voices, 1 normal)
+2022-11-17 01:45:44	<--	user1 () has left #chal1

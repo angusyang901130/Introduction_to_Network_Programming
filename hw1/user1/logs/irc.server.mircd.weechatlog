@@ -1,0 +1,137 @@
+2022-11-14 13:26:18	--	irc: connecting to server localhost/10004...
+2022-11-14 13:26:18	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-14 13:26:18	--	CAP Unknown command
+2022-11-14 13:26:18	--	Welcome to the minimized IRC daemon!
+2022-11-14 13:26:18	--	There are 1 users and 0 invisible on 1 server
+2022-11-14 13:26:18	--	- Server Message of the day
+2022-11-14 13:26:18	--	- Hello
+2022-11-14 13:26:18	--	- Welcome to Server
+2022-11-14 13:26:18	--	End of message of the day
+2022-11-14 13:27:23	--	User ID   Terminal  Host
+2022-11-14 13:27:23	--	user1    -         127.0.0.1
+2022-11-14 13:27:23	--	user2    -         127.0.0.1
+2022-11-14 13:27:31	--	Channel Users Name
+2022-11-14 13:27:31	--	End of List
+2022-11-14 13:27:52	--	MODE Unknown command
+2022-11-16 04:56:52	--	irc: connecting to server localhost/10004...
+2022-11-16 04:56:52	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 04:56:52	--	CAP Unknown command
+2022-11-16 04:56:52	--	Welcome to the minimized IRC daemon!
+2022-11-16 04:56:52	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 04:56:52	--	- Server Message of the day
+2022-11-16 04:56:52	--	- Hello
+2022-11-16 04:56:52	--	- Welcome to Server
+2022-11-16 04:56:52	--	- Start chatting with friends
+2022-11-16 04:56:52	--	End of message of the day
+2022-11-16 04:57:57	--	MODE Unknown command
+2022-11-16 04:58:52	--	MODE Unknown command
+2022-11-16 06:36:31	--	irc: connecting to server localhost/10004...
+2022-11-16 06:36:31	=!=	irc: connection refused
+2022-11-16 06:36:31	--	irc: reconnecting to server in 10 seconds
+2022-11-16 06:36:41	--	irc: reconnecting to server...
+2022-11-16 06:36:41	--	irc: connecting to server localhost/10004...
+2022-11-16 06:36:41	=!=	irc: connection refused
+2022-11-16 06:36:41	--	irc: reconnecting to server in 20 seconds
+2022-11-16 06:37:02	--	irc: connecting to server localhost/10004...
+2022-11-16 06:37:02	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 06:37:02	--	CAP Unknown command
+2022-11-16 06:37:02	--	Welcome to the minimized IRC daemon!
+2022-11-16 06:37:02	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 06:37:02	--	- Server Message of the day
+2022-11-16 06:37:02	--	- Hello
+2022-11-16 06:37:02	--	- Welcome to Server
+2022-11-16 06:37:02	--	- Start chatting with friends
+2022-11-16 06:37:02	--	End of message of the day
+2022-11-16 06:50:19	--	irc: connecting to server localhost/10004...
+2022-11-16 06:50:19	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 06:50:19	--	CAP Unknown command
+2022-11-16 06:50:19	--	Welcome to the minimized IRC daemon!
+2022-11-16 06:50:19	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 06:50:19	--	- Server Message of the day
+2022-11-16 06:50:19	--	- Hello
+2022-11-16 06:50:19	--	- Welcome to Server
+2022-11-16 06:50:19	--	- Start chatting with friends
+2022-11-16 06:50:19	--	End of message of the day
+2022-11-16 06:51:27	--	MODE Unknown command
+2022-11-16 06:51:35	--	Channel Users Name
+2022-11-16 06:51:35	--	#chan(1)
+2022-11-16 06:51:35	--	#chat(1)
+2022-11-16 06:51:35	--	End of List
+2022-11-16 06:51:49	--	MODE Unknown command
+2022-11-16 06:52:04	--	MODE Unknown command
+2022-11-16 06:55:11		PONG
+2022-11-16 06:55:19		PONG
+2022-11-16 07:08:50	--	irc: connecting to server localhost/10004...
+2022-11-16 07:08:50	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 07:08:50	--	CAP Unknown command
+2022-11-16 07:08:50	--	Welcome to the minimized IRC daemon!
+2022-11-16 07:08:50	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 07:08:50	--	- Server Message of the day
+2022-11-16 07:08:50	--	- Hello
+2022-11-16 07:08:50	--	- Welcome to Server
+2022-11-16 07:08:50	--	- Start chatting with friends
+2022-11-16 07:08:50	--	End of message of the day
+2022-11-16 07:17:18	--	irc: connecting to server localhost/10004...
+2022-11-16 07:17:18	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 07:17:18	--	CAP Unknown command
+2022-11-16 07:17:18	--	Welcome to the minimized IRC daemon!
+2022-11-16 07:17:18	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 07:17:18	--	- mircd Message of the day
+2022-11-16 07:17:18	--	- Hello
+2022-11-16 07:17:18	--	- Welcome to mircd
+2022-11-16 07:17:18	--	- Start chatting with friends
+2022-11-16 07:17:18	--	End of message of the day
+2022-11-16 07:58:47	--	irc: connecting to server localhost/10004...
+2022-11-16 07:58:47	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 07:58:47	--	CAP Unknown command
+2022-11-16 07:58:47	--	Welcome to the minimized IRC daemon!
+2022-11-16 07:58:47	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 07:58:47	--	- mircd Message of the day
+2022-11-16 07:58:47	--	- Hello
+2022-11-16 07:58:47	--	- Welcome to mircd
+2022-11-16 07:58:47	--	- Start chatting with friends
+2022-11-16 07:58:47	--	End of message of the day
+2022-11-16 08:03:36	--	irc: connecting to server localhost/10004...
+2022-11-16 08:03:36	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 08:03:36	--	CAP Unknown command
+2022-11-16 08:03:36	--	Welcome to the minimized IRC daemon!
+2022-11-16 08:03:36	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 08:03:36	--	- mircd Message of the day
+2022-11-16 08:03:36	--	- Hello
+2022-11-16 08:03:36	--	- Welcome to mircd
+2022-11-16 08:03:36	--	- Start chatting with friends
+2022-11-16 08:03:36	--	End of message of the day
+2022-11-16 17:19:27	--	irc: connecting to server localhost/10004...
+2022-11-16 17:19:27	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-16 17:19:27	--	CAP Unknown command
+2022-11-16 17:19:27	--	Welcome to the minimized IRC daemon!
+2022-11-16 17:19:27	--	There are 1 users and 0 invisible on 1 server
+2022-11-16 17:19:27	--	- mircd Message of the day
+2022-11-16 17:19:27	--	- Hello
+2022-11-16 17:19:27	--	- Welcome to mircd
+2022-11-16 17:19:27	--	- Start chatting with friends
+2022-11-16 17:19:27	--	End of message of the day
+2022-11-16 17:20:35	--	MODE Unknown command
+2022-11-16 17:29:43	=!=	irc: this buffer is not a channel!
+2022-11-17 01:43:04	--	irc: connecting to server localhost/10004...
+2022-11-17 01:43:04	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-17 01:43:04	--	CAP Unknown command
+2022-11-17 01:43:04	--	Welcome to the minimized IRC daemon!
+2022-11-17 01:43:04	--	There are 1 users and 0 invisible on 1 server
+2022-11-17 01:43:04	--	- mircd Message of the day
+2022-11-17 01:43:04	--	- Hello
+2022-11-17 01:43:04	--	- Welcome to mircd
+2022-11-17 01:43:04	--	- Start chatting with friends
+2022-11-17 01:43:04	--	End of message of the day
+2022-11-17 01:43:41	--	MODE Unknown command
+2022-11-17 01:45:29	--	irc: connecting to server localhost/10004...
+2022-11-17 01:45:29	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-17 01:45:29	--	CAP Unknown command
+2022-11-17 01:45:29	--	Welcome to the minimized IRC daemon!
+2022-11-17 01:45:29	--	There are 2 users and 0 invisible on 1 server
+2022-11-17 01:45:29	--	- mircd Message of the day
+2022-11-17 01:45:29	--	- Hello
+2022-11-17 01:45:29	--	- Welcome to mircd
+2022-11-17 01:45:29	--	- Start chatting with friends
+2022-11-17 01:45:29	--	End of message of the day
+2022-11-17 01:45:39	--	MODE Unknown command

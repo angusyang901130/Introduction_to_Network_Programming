@@ -1,0 +1,18 @@
+2022-11-16 17:25:14	-->	user2 () has joined #chal1
+2022-11-16 17:25:14	--	Topic for #chal1 is "hello, world!"
+2022-11-16 17:25:14	--	Channel #chal1: 2 nicks (0 ops, 0 voices, 2 normals)
+2022-11-16 17:26:43	--	Topic for #chal1 is "hello, world!"
+2022-11-16 17:27:15	--	Nicks #chal1: [user1 user2]
+2022-11-16 17:27:15	--	Channel #chal1: 2 nicks (0 ops, 0 voices, 2 normals)
+2022-11-16 17:27:40	user1	Hello I am User1
+2022-11-16 17:27:59	user2	Hello How are you
+2022-11-16 17:28:26	<--	user1 () has left #chal1
+2022-11-16 17:28:37	<--	user2 () has left #chal1
+2022-11-17 01:44:11	-->	user2 () has joined #chal1
+2022-11-17 01:44:11	--	Topic for #chal1 is "hello, world!"
+2022-11-17 01:44:11	--	Channel #chal1: 2 nicks (0 ops, 0 voices, 2 normals)
+2022-11-17 01:44:21	--	Topic for #chal1 is "hello, world!"
+2022-11-17 01:44:31	user1	Hello User2
+2022-11-17 01:44:38	user2	Hello USER1
+2022-11-17 01:44:47	<--	user1 () has left #chal1
+2022-11-17 01:44:51	--	irc: disconnected from server

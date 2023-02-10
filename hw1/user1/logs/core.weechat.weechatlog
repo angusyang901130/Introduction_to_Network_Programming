@@ -1,0 +1,68 @@
+2022-11-14 13:26:18		New key binding (context "default"): meta-B => /buflist toggle
+2022-11-14 13:26:18		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2022-11-14 13:26:18		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2022-11-14 13:26:18		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2022-11-14 13:26:18		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2022-11-14 13:26:18		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2022-11-14 13:26:18		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2022-11-14 13:26:18		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2022-11-14 13:26:18		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2022-11-14 13:26:18		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2022-11-14 13:26:18		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-14 13:26:18		irc: server added: mircd
+2022-11-14 13:26:18		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-14 13:29:46		fifo: pipe closed
+2022-11-16 04:56:52		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 04:56:52	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 04:56:52		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 04:57:45	=!=	Error with command "/join" (help on command: /help join)
+2022-11-16 05:00:15		fifo: pipe closed
+2022-11-16 06:36:31		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 06:36:31	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 06:36:31		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 06:36:43		fifo: pipe closed
+2022-11-16 06:37:02		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 06:37:02	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 06:37:02		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 06:37:06		fifo: pipe closed
+2022-11-16 06:50:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 06:50:19	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 06:50:19		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 06:51:36	=!=	Unknown command "/lcose" (type /help for help)
+2022-11-16 06:52:07	=!=	Unknown command "/hello" (type /help for help)
+2022-11-16 06:54:50	=!=	Too few arguments for command "/ping" (help on command: /help ping)
+2022-11-16 06:58:40		fifo: pipe closed
+2022-11-16 07:08:50		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 07:08:50	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 07:08:50		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 07:09:04	=!=	Too few arguments for command "/ping" (help on command: /help ping)
+2022-11-16 07:09:08		fifo: pipe closed
+2022-11-16 07:17:18		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 07:17:18	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 07:17:18		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 07:17:45		fifo: pipe closed
+2022-11-16 07:58:47		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 07:58:47	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 07:58:47		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 08:02:51		fifo: pipe closed
+2022-11-16 08:03:36		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 08:03:36	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 08:03:36		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 08:16:37		fifo: pipe closed
+2022-11-16 17:19:27		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-16 17:19:27	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-16 17:19:27		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-16 17:29:47		fifo: pipe closed
+2022-11-17 01:43:04		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-17 01:43:04	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-17 01:43:04		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-17 01:44:51		fifo: pipe closed
+2022-11-17 01:45:29		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, spell, trigger, typing, xfer
+2022-11-17 01:45:29	=!=	irc: server "mircd" already exists, can't add it!
+2022-11-17 01:45:29		Option changed: irc.server.mircd.nicks = "user1"  (default if null: "root,root1,root2,root3,root4")
+2022-11-17 01:45:48		fifo: pipe closed
